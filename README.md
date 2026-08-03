@@ -1,10 +1,32 @@
-# Data Analytics
+# 📊 Data Analytics
 
-This repository documents my journey of learning Data Analytics using Python and Jupyter Notebook.
+A collection of hands-on Data Analytics projects built using Python and Jupyter Notebook. This repository showcases the implementation of fundamental data analysis and machine learning concepts using real-world datasets.
 
-It contains hands-on implementations of fundamental data analysis techniques, data visualization, preprocessing methods, and machine learning concepts using real-world datasets.
+## 📚 Projects
 
-## Repository Structure
+### 📈 Exploratory Data Analysis
+- Dataset exploration and summary
+- Descriptive statistics
+- Data visualization
+- Correlation analysis
+
+### 🧹 Data Preprocessing
+- Handling missing values
+- Feature scaling
+- Categorical data encoding
+- Outlier detection using IQR
+
+## 🛠️ Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## 📂 Repository Structure
 
 ```text
 data-analytics/
@@ -14,28 +36,12 @@ data-analytics/
 │   ├── eda.ipynb
 │   └── README.md
 │
+├── Data-Preprocessing/
+│   ├── data/
+│   ├── preprocessing.ipynb
+│   └── README.md
+│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
-
-## Technologies Used
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-## Completed
-
-- ✅ Exploratory Data Analysis (EDA)
-
-## Next
-
-- ⏳ Data Preprocessing
-
----
-
-This repository will continue to grow as I learn and implement more data analytics techniques.
