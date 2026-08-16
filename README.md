@@ -25,7 +25,15 @@ This repository documents my learning journey through data analysis, preprocessi
 * Simple Random Sampling
 * Stratified Sampling
 * Systematic Sampling
-* Comparing samples using descriptive statistics
+* Comparing different sampling methods
+
+### 📐 Central Limit Theorem
+
+* Understanding the distribution of data
+* Repeated sampling
+* Calculating sample means
+* Applying the Central Limit Theorem
+* Comparing before and after distributions
 
 ## 🛠️ Technologies Used
 
@@ -55,6 +63,10 @@ data-analytics/
 ├── sampling-types/
 │   ├── students_performance.csv
 │   ├── sampling_types.ipynb
+│   └── README.md
+│
+├── central-limit-theorem/
+│   ├── central_limit_theorem.ipynb
 │   └── README.md
 │
 ├── requirements.txt
